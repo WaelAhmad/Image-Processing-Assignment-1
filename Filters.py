@@ -15,7 +15,7 @@ import math
 
 # Original Image
 
-# Read Image as gray scale
+# Read Image 
 img1 = cv2.imread('salah.png', 1)
 
 # show Image
